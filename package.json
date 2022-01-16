@@ -1,8 +1,9 @@
 {
-  "name": "template-postcss-figma",
+  "name": "@bertyn/template-postcss-figma",
   "version": "0.1.0",
   "description": "project template qui a pour de boostrapper le lancement de projet figma to html de mes client fiver",
   "main": "index.js",
+  "url":"https://github.com/bertyn99/template.git",
   "scripts": {
     "postcss:watch": "postcss src/style.css --dir public"
   },
